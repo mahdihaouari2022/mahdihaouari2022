@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mahdi and I'm a 19, from Tunisia</h2>
+<h2 align="left">Hi👋! My name is Mahdi and I'm a 19, from Tunisia</h2>
 
 ###
 
